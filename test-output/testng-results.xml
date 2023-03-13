@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-01T19:54:13 IST" name="Default suite" finished-at="2023-03-01T19:54:13 IST" duration-ms="204">
+    <groups>
+    </groups>
+    <test started-at="2023-03-01T19:54:13 IST" name="Default test" finished-at="2023-03-01T19:54:13 IST" duration-ms="204">
+      <class name="practice1testng.c">
+        <test-method is-config="true" signature="m9()[pri:0, instance:practice1testng.c@22ef9844]" started-at="2023-03-01T19:54:13 IST" name="m9" finished-at="2023-03-01T19:54:13 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m9 -->
+        <test-method is-config="true" signature="m1()[pri:0, instance:practice1testng.c@22ef9844]" started-at="2023-03-01T19:54:13 IST" name="m1" finished-at="2023-03-01T19:54:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method is-config="true" signature="m5()[pri:0, instance:practice1testng.c@22ef9844]" started-at="2023-03-01T19:54:13 IST" name="m5" finished-at="2023-03-01T19:54:13 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m5 -->
+        <test-method signature="m2()[pri:0, instance:practice1testng.c@22ef9844]" started-at="2023-03-01T19:54:13 IST" name="m2" finished-at="2023-03-01T19:54:13 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+        <test-method is-config="true" signature="m6()[pri:0, instance:practice1testng.c@22ef9844]" started-at="2023-03-01T19:54:13 IST" name="m6" finished-at="2023-03-01T19:54:13 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m6 -->
+        <test-method is-config="true" signature="m5()[pri:0, instance:practice1testng.c@22ef9844]" started-at="2023-03-01T19:54:13 IST" name="m5" finished-at="2023-03-01T19:54:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m5 -->
+        <test-method signature="m3()[pri:0, instance:practice1testng.c@22ef9844]" started-at="2023-03-01T19:54:13 IST" name="m3" finished-at="2023-03-01T19:54:13 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+        <test-method is-config="true" signature="m6()[pri:0, instance:practice1testng.c@22ef9844]" started-at="2023-03-01T19:54:13 IST" name="m6" finished-at="2023-03-01T19:54:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m6 -->
+        <test-method is-config="true" signature="m4()[pri:0, instance:practice1testng.c@22ef9844]" started-at="2023-03-01T19:54:13 IST" name="m4" finished-at="2023-03-01T19:54:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m4 -->
+        <test-method is-config="true" signature="m7()[pri:0, instance:practice1testng.c@22ef9844]" started-at="2023-03-01T19:54:13 IST" name="m7" finished-at="2023-03-01T19:54:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m7 -->
+        <test-method is-config="true" signature="m8()[pri:0, instance:practice1testng.c@22ef9844]" started-at="2023-03-01T19:54:14 IST" name="m8" finished-at="2023-03-01T19:54:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m8 -->
+      </class> <!-- practice1testng.c -->
+      <class name="practice1testng.Practicetest">
+        <test-method is-config="true" signature="drink()[pri:0, instance:practice1testng.Practicetest@1af2d44a]" started-at="2023-03-01T19:54:13 IST" name="drink" finished-at="2023-03-01T19:54:13 IST" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- drink -->
+        <test-method is-config="true" signature="swim()[pri:0, instance:practice1testng.Practicetest@1af2d44a]" started-at="2023-03-01T19:54:13 IST" name="swim" finished-at="2023-03-01T19:54:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- swim -->
+        <test-method signature="run()[pri:0, instance:practice1testng.Practicetest@1af2d44a]" started-at="2023-03-01T19:54:13 IST" name="run" finished-at="2023-03-01T19:54:13 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+      </class> <!-- practice1testng.Practicetest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
